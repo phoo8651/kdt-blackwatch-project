@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# virtualenv
+.venv/
+venv/
+env/
+
+# local env
+.env
+.env.test
+.env.save
+.env.backup*
+
+# outputs
+data/*
+
+# sessions
+*.session

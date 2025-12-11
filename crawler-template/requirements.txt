@@ -1,0 +1,5 @@
+requests[socks]
+python-dotenv
+stem
+selenium
+pydantic
